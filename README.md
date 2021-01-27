@@ -1,6 +1,6 @@
 Account age: **7** years
 
-Pushed **135** commits
+Pushed **136** commits
 
 Opened **0** issues
 
@@ -26,5 +26,3 @@ Top 4 most used languages across your repositories:
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B16.6%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B13.9%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.4%25)
-
-![Jason's github stats](https://github-readme-stats.vercel.app/api/?username=nuar046&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
